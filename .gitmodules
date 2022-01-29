@@ -1,0 +1,6 @@
+[submodule "frontend/ionic"]
+	path = frontend/ionic
+	url = https://github.com/ApPoint-Team/ionic-client.git
+[submodule "backend/laravel"]
+	path = backend/laravel
+	url = https://github.com/ApPoint-Team/laravel-backend.git
